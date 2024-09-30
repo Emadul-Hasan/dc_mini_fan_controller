@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=CVIN
+Change Component Designator: OldDesignator=C2 NewDesignator=CBAT
+Change Component Designator: OldDesignator=C3 NewDesignator=CFAN
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Room: Name=dc_mini_fan_controller
