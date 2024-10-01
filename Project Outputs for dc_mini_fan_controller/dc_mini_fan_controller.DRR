@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dc_mini_fan_controller.PcbDoc   10/1/2024  9:59:38 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dc_mini_fan_controller-RoundHoles.TXT
+ASCII SlotHoles File : dc_mini_fan_controller-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.55mm (22mil)                                            Slot              2         PTH        16.83mm (0.66inch)
+T2      0.711mm (28mil)                                           Round             6         PTH        16.18mm (0.64inch)
+T3      0.85mm (33mil)                                            Slot              2         PTH        16.02mm (0.63inch)
+T4      0.8mm (31mil)                                             Round             2         NPTH       5.00mm (0.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              12
+
+Total Processing Time (hh:mm:ss) : 00:00:00

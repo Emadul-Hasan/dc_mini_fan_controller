@@ -1,0 +1,276 @@
+*************************************************************
+FileName = dc_mini_fan_controller.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : dc_mini_fan_controller.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : dc_mini_fan_controller.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D14
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : dc_mini_fan_controller.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : dc_mini_fan_controller.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : dc_mini_fan_controller.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : dc_mini_fan_controller.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : dc_mini_fan_controller.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D14
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : dc_mini_fan_controller.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : dc_mini_fan_controller.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : dc_mini_fan_controller.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : dc_mini_fan_controller.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : dc_mini_fan_controller.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : dc_mini_fan_controller.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : dc_mini_fan_controller.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : dc_mini_fan_controller.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : dc_mini_fan_controller.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D37
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : dc_mini_fan_controller.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D37
+*************************************************************
+

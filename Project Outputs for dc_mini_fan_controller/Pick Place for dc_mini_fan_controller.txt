@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+D:\Altium Projects\dc_mini_fan_controller\Project Outputs for dc_mini_fan_controller\Pick Place for dc_mini_fan_controller.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/10/24
+Time:       10:00
+Revision:   bc1b2299cdf86beecdf2117d7909130e44d53205
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation Description                                                                                         
+USB_micro  629105150521  TopLayer 629105150521      320.000       560.630       180      ""                                                                                                  
+U1         FM5012D       TopLayer FM5012D           605.000       195.000       90       SOT23-6                                                                                             
+SW1        FSM4JSMATR    TopLayer TECO-FSM4JSMATR_V 295.000       165.000       270      "Micro Miniature Push Button Switch FSM JSM, 50 mA, -35 to 85 degC, 4-Pin SMD, RoHS, Tape and Reel" 
+R1         2K            TopLayer FP-ERJ2RK-MFG     215.000       395.000       180      "RES SMD 2K OHM 1% 1/10W 0402"                                                                      
+FAN        BAT           TopLayer BAT               45.000        428.740       90       ""                                                                                                  
+DR         SML-P12VTT86R TopLayer FP-SML-P1-MFG     114.610       623.358       270      "LED RED CLEAR 0402 SMD"                                                                            
+DB         QBLP595-IB    TopLayer FP-QBLP595-IB-MFG 50.000        620.000       270      "LED BLUE CLEAR 0402 SMD"                                                                           
+C1         1uF           TopLayer FP-GRM15-0_1-MFG  450.748       395.000       0        "CAP CER 1UF 10V X5R 0402"                                                                          
+C3         1uF           TopLayer FP-GRM15-0_1-MFG  645.000       75.000        270      "CAP CER 1UF 10V X5R 0402"                                                                          
+C2         1uF           TopLayer FP-GRM15-0_1-MFG  560.000       75.000        270      "CAP CER 1UF 10V X5R 0402"                                                                          
+BAT        BAT           TopLayer BAT               645.000       448.740       90       ""                                                                                                  
